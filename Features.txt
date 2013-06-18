@@ -1,25 +1,26 @@
 Features:
-[Ben]
+[Ben]            
       - Parachute onto the island?
       - Crafting...
-      - Start by picking up fallen twigs and stuff
-      - Chop down trees
-      - Climb trees
-      - Footsteps in snow
-      - Random loot
-      - MULTIPLAYA
-      - Day/Night Cycle
+      - Start by picking up fallen twigs and stuff.
+      - Checkpoints to go to.
+      - Chop down trees.
+      - Climb trees.
+      - Footsteps in snow.
+      - Random loot.
+      - MULTIPLAYER.
+      - Day/Night Cycle.
       - Animals
-            - Wolves
-            - 
-            - 
+            - Wolves.
+            - Birds.
+            - Deer.
       - Food
-            - Fish - Fishing
-            - Bears - Bear Hide
-            - 
-            - 
-      - Modern / Not???
-      - Thirs, Hunger system (Little to no GUI, Intuitive)
+            - Fish - Fishing.
+            - Bears - Bear Hide.
+            
+      - Modern or Not???
+            
+      - Thirs, Hunger system (Little to no GUI, Interactive)
       - Different Maps
             - Snowland
             - Island
@@ -27,6 +28,22 @@ Features:
       
 [Michael]
 
+      - Slender man.
+      - Snow or forest.
+      -
+      
+      - Theme or Point in the game
+            - To hunt or survive?
+            - Kill or make (Like minecraft)
+            
+      - Modern with survival theme
+            - Modern suit.
+            - No vehicles to drive.
+            - broken down houses.
+            
+      - Sounds
+            - Wolf howl.
+            - Rustle of trees (above).
 
 
 Ideas:

@@ -1,4 +1,32 @@
 Features:
+[Ben]
+      - Parachute onto the island?
+      - Crafting...
+      - Start by picking up fallen twigs and stuff
+      - Chop down trees
+      - Climb trees
+      - Footsteps in snow
+      - Random loot
+      - MULTIPLAYA
+      - Day/Night Cycle
+      - Animals
+            - Wolves
+            - 
+            - 
+      - Food
+            - Fish - Fishing
+            - Bears - Bear Hide
+            - 
+            - 
+      - Modern / Not???
+      - Thirs, Hunger system (Little to no GUI, Intuitive)
+      - Different Maps
+            - Snowland
+            - Island
+            - School
+      
+[Michael]
+
 
 
 Ideas:
